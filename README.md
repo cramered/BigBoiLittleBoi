@@ -13,8 +13,8 @@ Contributors: Ned Cramer, Zach Viscusi, Matthew Williams, Liam Hasandjekaj
 ![Screenshots][ss1]
 ![Screenshots][ss2]
 
-[ss1]: Screenshot1.png
-[ss2]: Screenshot2.png
+[ss1]: Screenshots/Screenshot1.png
+[ss2]: Screenshots/Screenshot2.png
 
 
 
