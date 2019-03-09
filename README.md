@@ -1,14 +1,14 @@
 # BigBoiLittleBoi
 
 
-###2D Platformer Prototype made in Unity
+2D Platformer Prototype made in Unity
 
 ----
 Contributors: Ned Cramer, Zach Viscusi, Matthew Williams, Liam Hasandjekaj
 
 ----
 
-###Screenshots:
+Screenshots:
 
 ![Screenshots][ss1]
 ![Screenshots][ss2]
